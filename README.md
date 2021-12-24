@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./my_screenshot.jpg)
+![Screenshot](my_screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/marcos-ortiz-osca/front-mentor-04.git
+- Live Site URL: https://marcos-ortiz-osca.github.io/front-mentor-04/
 
 ## My process
 
